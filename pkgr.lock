@@ -1,3 +1,9 @@
 {
-  "packages": {}
+  "packages": {
+    "gin": {
+      "name": "gin",
+      "version": "1.9.1",
+      "source": "github.com/gin-gonic/gin"
+    }
+  }
 }
